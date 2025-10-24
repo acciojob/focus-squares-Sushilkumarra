@@ -1,6 +1,6 @@
 //your JS code here. If required.
 // Select all squares
-const squares = document.querySelectorAll('.focus-sq');
+const squares = document.querySelectorAll('.square');
 
 // Loop through each square
 squares.forEach((square) => {
